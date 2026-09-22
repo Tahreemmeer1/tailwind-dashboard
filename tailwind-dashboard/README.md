@@ -4,11 +4,11 @@ A modern and responsive dashboard built with **React** and **Tailwind CSS**. Thi
 
 ## 🚀 Live Demo
 
-Add your deployed Netlify or Vercel URL here.
+https://tahreem-tailwind-dashboard.netlify.app
 
 ## 📂 GitHub Repository
 
-Add your GitHub repository URL here.
+https://github.com/Tahreemmeer1/tailwind-dashboard
 
 ## ✨ Features
 
